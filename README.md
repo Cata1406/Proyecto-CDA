@@ -12,7 +12,6 @@
 - Santiago Iván Pardo Morales
 
 ## Corra localmente
-Con el fin de que el proyecto le corra de manera exitosa, se requiere acceso a las bases de datos del proyecto las cuáles no son de público acceso. Si desea tener acceso a estes con fines investigativos comuníquese con m.ibanez@uniandes.edu.co.
 
 Clone el proyecto
 
@@ -31,4 +30,5 @@ Instale las dependencias
 ```bash
   pip install -r requirements.txt
 ```
-
+## Base de Datos
+Con el fin de que el proyecto le corra de manera exitosa, se requiere acceso a las bases de datos del proyecto las cuáles no son de público acceso. Si desea tener acceso a estes con fines investigativos comuníquese con m.ibanez@uniandes.edu.co.
