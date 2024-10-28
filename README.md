@@ -1,6 +1,6 @@
 # Proyecto-CDA
 
-**Integrantes:**
+## **Integrantes:**
 - Jairo Adolfo Céspedes Plata
 - Lina María Gómez Mesa
 - María Catalina Ibáñez Piñeres
