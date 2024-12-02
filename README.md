@@ -36,7 +36,7 @@ Instale las dependencias
 Con el fin de que el proyecto le corra de manera exitosa, se requiere acceso a las bases de datos del proyecto las cuáles no son de público acceso. Si desea tener acceso a estes con fines investigativos comuníquese con m.ibanez@uniandes.edu.co.
 
 ## :open_file_folder: Archivos en el repositorio
-- `Informe-Entrega-1/pdf`: corresponde al informe de la primera entrega
+- `Informe-Entrega-1.pdf`: corresponde al informe de la primera entrega
 - `eda.ipynb`: Jupyter notebook que contiene la exploración de los datos que se hizo inicialmente, antes de calcular la etiqueta o variable target.
 - `maestria_caracterizacion.pbix`: Archivo de PowerBI donde se encuentran gráficas en las que se caracteriza a los desertores, acá se hace la exploración de los datos, luego de calcular la etiqueta.
 - `eda_training.ipynb`: Jupyter Notebook que contiene todo el proceso de unión/homogenización de bases de datos, limpieza de datos, cálculo de la etiqueta, entrenamiento y evaluación de modelos.
